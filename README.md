@@ -2,6 +2,7 @@
 
 1.  **Install the Kijai Custom Node:**
     *   Clone the Kijai´s [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) repository into your ComfyUI's `custom_nodes` directory.  Alternatively, install it through the ComfyUI Manager.
+    *   Go to [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) repository if you need to check how to install requirements (Not necesary if you install it via Manager).
 
 2.  **Node File Replacement:**
     *   **Important:**  In your `ComfyUI-WanVideoWrapper` folder, rename the existing `nodes.py` file to `nodes.py_` (or any other name).  This ensures it's not overwritten.
