@@ -9,7 +9,7 @@
     *   Copy the `nodes.py` file from *this* repository (the one you're viewing) and paste it into your `ComfyUI-WanVideoWrapper` folder.
 
 3.  **Workflow:**
-    *   Download the provided workflow.
+    *   Download `Self Forcing VACE Simple.json` provided workflow.
     *   Load the workflow into ComfyUI and start generating videos!
 
 ---
