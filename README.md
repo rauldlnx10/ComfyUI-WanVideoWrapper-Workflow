@@ -17,6 +17,5 @@
 
 *   Thanks to [kijai](https://github.com/kijai) for the original ComfyUI-WanVideoWrapper node.
 *   Thanks to the ComfyUI community for their amazing work and support.
-*   [Optional: Add any other specific acknowledgements, e.g., contributors, helpful users, etc.]
-  
+
 
